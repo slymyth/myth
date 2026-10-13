@@ -1,0 +1,6 @@
+{
+  "name": "Mythsuite — Rotating Email Outreach Manager",
+  "description": "Smart rotating email outreach manager for cold outreach. Rotate personalized message variations to avoid spam filters and reach store owners with automated mail app dispatching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
